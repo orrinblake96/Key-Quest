@@ -1,0 +1,1 @@
+Folder containing a collection of images for README.md
